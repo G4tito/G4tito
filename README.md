@@ -3,7 +3,7 @@
 <h2 align="center">✨ Welcome to my Profile ✨</h2>
 
 <p align="center">
-  <img src="https://cardivo.vercel.app/api?name=The+Cat&description=👋+Hello+my+name+is+Félix+and+I+am+18+years+old.+I'm+from+Perú+and+my+hobby+is+playing+video+games,+programming+and+watching+anime.&image=https://i.ibb.co/wdN3ZfK/Profile.jpg&backgroundColor=%23ecf0f1&github=G4tito&backgroundColor=%23ffffff&fontColor=%23ffffff&colorPattern=%23ffffff" />
+  <img src="https://cardivo.vercel.app/api?name=Gatito&description=👋+Hello+my+name+is+Félix+and+I+am+18+years+old.+I'm+from+Perú+and+my+hobby+is+playing+video+games,+programming+and+watching+anime.&image=https://i.ibb.co/wdN3ZfK/Profile.jpg&backgroundColor=%23ecf0f1&github=G4tito&backgroundColor=%23ffffff&fontColor=%23ffffff&colorPattern=%23ffffff" />
 </p>
 
 
